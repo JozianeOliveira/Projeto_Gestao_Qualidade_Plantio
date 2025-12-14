@@ -114,29 +114,35 @@ Essa abordagem permite padronização, transparência e apoio à tomada de decis
 
 ## 📂 Estrutura do Repositório
 
-Gestao-Qualidade-Plantio-Agricola
+PROJETO_GESTAO_QUALIDADE_PLANTIO
+│
+├── README.md
+├── LICENSE
+├── .gitattributes
 │
 ├── docs
-│   ├── 01-contexto-do-projeto.md
-│   ├── 02-escopo-do-projeto.md
-│   ├── 03-stakeholders.md
-│   ├── 04-mapeamento-de-processos.md
-│   ├── 05-requisitos.md
-│   ├── 06-regras-de-negocio.md
-│   ├── 07-proposta-de-solucao.md
-│   ├── 08-indicadores.md
-│   ├── 09-resultados-esperados.md
-│   └── 10-consideracoes-finais.md
+│   ├── 01_Contexto_do_Projeto.md
+│   ├── 02_Escopo_do_Projeto.md
+│   ├── 03_Stakeholders.md
+│   ├── 04_Mapeamento_de_Processos.md
+│   ├── 05_Requisitos.md
+│   ├── 06_Regras_de_Negocios.md
+│   ├── 07_Proposta_de_Solucao.md
+│   ├── 08_Indicadores.md
+│   ├── 09_Resultados_Esperados.md
+│   └── 10_Consideracoes_Finais.md
 │
 ├── processos
-│   ├── bpmn-as-is.png
-│   └── bpmn-to-be.png
+│   ├── processo-plantio-as-is.bpmn
+│   ├── processo-plantio-to-be.bpmn
+│   └── Processos_Plantio_BPMN.md
 │
-├── banco-de-dados
-│   ├── modelo-der.png
+├── banco_de_dados
+│   ├── DER.md
+│   ├── DER_Modelo_Dados.md
+│   ├── DER.png
+│   ├── Queries_SQL_Indicadores.md
 │   └── script.sql
-│
-└── README.md
 
 ---
 
