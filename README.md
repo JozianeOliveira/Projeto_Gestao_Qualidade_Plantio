@@ -1,5 +1,13 @@
 # 🌱 Gestão da Qualidade no Processo de Plantio Agrícola
 
+## 📄 Documento Completo do Projeto (PDF)
+
+O projeto completo, com toda a documentação consolidada (contexto, BPMN, requisitos, regras de negócio, DER, indicadores e conclusões), está disponível em formato PDF:
+
+👉 **[Acessar PDF do Projeto](docs/00_Gestão da Qualidade no Processo de Plantio Agrícola.pdf)**
+
+---
+
 ## 📌 Visão Geral
 Este projeto apresenta um *estudo de caso completo de Análise e Implantação de Sistemas, com foco no **mapeamento de processos, **gestão da qualidade, **definição de regras de negócio* e *proposta de solução sistêmica* para o processo de plantio agrícola.
 
@@ -121,6 +129,7 @@ PROJETO_GESTAO_QUALIDADE_PLANTIO
 ├── .gitattributes
 │
 ├── docs
+│   ├── 00_Gestão da Qualidade no Processo de Plantio Agrícola.pdf
 │   ├── 01_Contexto_do_Projeto.md
 │   ├── 02_Escopo_do_Projeto.md
 │   ├── 03_Stakeholders.md

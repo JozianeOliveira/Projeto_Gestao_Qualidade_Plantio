@@ -1,4 +1,4 @@
-erDiagram
+DerDiagram
 
     TURMA ||--o{ COLABORADOR : possui
 
